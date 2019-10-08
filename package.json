@@ -1,0 +1,31 @@
+{
+  "name": "google-instanceid-batchimport",
+  "version": "0.0.1",
+  "description": "NodeJS library for accessing the batchImport method of the Google Instance ID service",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hero-group/google-instanceid-batchimport.git"
+  },
+  "keywords": [
+    "google",
+    "instanceid",
+    "iid",
+    "batchimport",
+    "apns",
+    "fcm",
+    "token"
+  ],
+  "author": "Y. Wayne Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hero-group/google-instanceid-batchimport/issues"
+  },
+  "homepage": "https://github.com/hero-group/google-instanceid-batchimport#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
