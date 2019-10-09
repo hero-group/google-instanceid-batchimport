@@ -1,6 +1,6 @@
 {
   "name": "google-instanceid-batchimport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeJS library for accessing the batchImport method of the Google Instance ID service",
   "main": "src/index.js",
   "scripts": {
